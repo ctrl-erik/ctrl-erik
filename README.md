@@ -1,3 +1,10 @@
+<a href="https://leetcode.com/u/ctrl-erik/">
+	<img src="https://img.shields.io/badge/LeetCode-ctrl--erik-orange?logo=leetcode&logoColor=orange">
+</a>
+<a href="https://monkeytype.com/profile/ctrl-erik">
+	<img src="https://img.shields.io/badge/monkeytype-ctrl--erik-%23ffd000?logo=monkeytype&logoColor=%23ffd000">
+</a>
+
 <table>
 	  <tr>
 		<td align="center" style="padding:0;width:50%;">
